@@ -1,7 +1,7 @@
 # Caylin Blue GitHub Homepage
 
 ### Link 
-![CaylinBlue.github.io](https://caylinblue.github.io)
+![CaylinBlue.github.io](https://caylinblue.github.io/)
 
 ## About
 - My name is Caylin Blue
