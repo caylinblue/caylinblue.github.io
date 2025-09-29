@@ -2,7 +2,7 @@
 
 ![CaylinBlue.github.io](https://caylinblue.github.io)
 
-![Photo of Me](IIMG_4150.JPG)
+![Photo of Me](IMG_4150.JPG)
 
 ## About
 - My name is Caylin Blue
