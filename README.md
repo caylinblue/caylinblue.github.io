@@ -1,5 +1,3 @@
-# Caylin Blue GitHub Homepage
-
 ### Link 
 ![CaylinBlue.github.io](https://caylinblue.github.io/)
 
