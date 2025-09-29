@@ -1,7 +1,7 @@
 # caylinblue.github.io
 
 # **Caylin Blue GitHub Page**
-!
+![Photo of Me] (
 ## About
 - My name is Caylin Blue
 - I am a sophomore at Boise State University
