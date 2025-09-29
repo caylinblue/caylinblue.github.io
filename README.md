@@ -1,6 +1,7 @@
 # caylinblue.github.io
 
-# **Caylin Blue GitHub Page**
+![CaylinBlue.github.io](https://caylinblue.github.io)
+
 ![Photo of Me](IMG_4150.JPG)
 
 ## About
